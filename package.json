@@ -1,0 +1,25 @@
+{
+  "name": "node-app-monitor",
+  "version": "0.0.1",
+  "description": "NodeJS application Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griga/node-app-monitor.git"
+  },
+  "keywords": [
+    "node",
+    "sails",
+    "express",
+    "monitor"
+  ],
+  "author": "m22griga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/griga/node-app-monitor/issues"
+  },
+  "homepage": "https://github.com/griga/node-app-monitor#readme"
+}
